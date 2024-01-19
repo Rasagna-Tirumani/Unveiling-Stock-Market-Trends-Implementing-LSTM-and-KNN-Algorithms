@@ -1,1 +1,3 @@
 # Unveiling-Stock-Market-Trends-Implementing-LSTM-and-KNN-Algorithms
+
+This study aims to enhance and evaluate the effectiveness of Long Short-Term Memory (LSTM) and k-Nearest Neighbors (KNN) algorithms for predicting stock prices. Historical data, including pricing, trade volume, and market mood, is acquired from credible sources and undergoes cleansing and preprocessing. Two forecasting models, one utilizing LSTM and the other employing KNN, are constructed. LSTM and KNN models are trained using past data, and their performance is assessed using metrics such as mean squared error and mean error. The study concludes that the LSTM model outperforms the KNN model in terms of accuracy, contributing valuable insights to the field of stock price prediction.
